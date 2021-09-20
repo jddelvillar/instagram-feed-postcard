@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+    margin: 0;
+}
+header{
+    background: white;
+    padding: 15px;
+    
+}
+header h1{margin: 0;}
+div.post{
+    background: white;
+    margin-top: 30px;    
+}
+div.post h2{ display: inline;}
+div.post p{padding-bottom: 4px;}
+div.post img {width: 100%;
+}
+div.post span{float: right;
+color: lightgray;
+margin-right: 8px;
+margin-top: 5px;}
+div.container{
+    width: 600px;
+    margin: auto
+}
+
